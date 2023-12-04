@@ -22,6 +22,7 @@ p{
 .main{
     background-color: rgb(248, 246, 242);
     min-height: 100vh;
+    padding-bottom: 1rem;
 }
 
 .middle{
@@ -31,6 +32,7 @@ p{
     gap: 0.3rem;
     color: black;
     padding: 1rem;
+    margin-bottom: 0.2rem;
     background-color: rgb(201, 198, 198);
 }
 
